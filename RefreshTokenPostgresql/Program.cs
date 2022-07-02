@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using System.Text.Json.Serialization;
 using WebApi.Authorization;
 using WebApi.Helpers;
 using WebApi.Services;

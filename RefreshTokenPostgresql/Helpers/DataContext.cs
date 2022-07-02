@@ -13,6 +13,5 @@ public class DataContext : DbContext
     {
         modelBuilder.UseSerialColumns();
     }
-
     public DbSet<User> User { get; set; }
 }
